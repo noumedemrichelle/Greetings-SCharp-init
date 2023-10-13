@@ -1,0 +1,15 @@
+D:\Greetings\bin\Debug\net7.0\Greetings.exe
+D:\Greetings\bin\Debug\net7.0\Greetings.deps.json
+D:\Greetings\bin\Debug\net7.0\Greetings.runtimeconfig.json
+D:\Greetings\bin\Debug\net7.0\Greetings.dll
+D:\Greetings\bin\Debug\net7.0\Greetings.pdb
+D:\Greetings\obj\Debug\net7.0\Greetings.csproj.AssemblyReference.cache
+D:\Greetings\obj\Debug\net7.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Greetings\obj\Debug\net7.0\Greetings.AssemblyInfoInputs.cache
+D:\Greetings\obj\Debug\net7.0\Greetings.AssemblyInfo.cs
+D:\Greetings\obj\Debug\net7.0\Greetings.csproj.CoreCompileInputs.cache
+D:\Greetings\obj\Debug\net7.0\Greetings.dll
+D:\Greetings\obj\Debug\net7.0\refint\Greetings.dll
+D:\Greetings\obj\Debug\net7.0\Greetings.pdb
+D:\Greetings\obj\Debug\net7.0\Greetings.genruntimeconfig.cache
+D:\Greetings\obj\Debug\net7.0\ref\Greetings.dll
